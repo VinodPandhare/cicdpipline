@@ -1,0 +1,15 @@
+0 verbose cli /usr/bin/node /usr/bin/npm
+1 info using npm@10.7.0
+2 info using node@v18.20.4
+3 silly config:load:file:/usr/lib/node_modules/npm/npmrc
+4 silly config:load:file:/home/ubuntu/ecs-devops-sandbox-cdk/.npmrc
+5 silly config:load:file:/home/ubuntu/.npmrc
+6 silly config:load:file:/usr/etc/npmrc
+7 verbose title npm view aws-cdk version
+8 verbose argv "view" "aws-cdk" "version"
+9 verbose logfile logs-max:10 dir:/home/ubuntu/.npm/_logs/2024-07-14T07_31_32_632Z-
+10 verbose logfile /home/ubuntu/.npm/_logs/2024-07-14T07_31_32_632Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/aws-cdk 218ms (cache revalidated)
+13 verbose exit 0
+14 info ok
